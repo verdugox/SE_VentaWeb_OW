@@ -56,7 +56,7 @@
         </dependency>
     </dependencies>
     <modules> 
-        <module>/home/mcetsqa/NetBeansProjects/SE_VentaWeb/src/test/java/VentaWeb_IT/VentaWeb_IT.java</module> 
+        <module>../src/test/java/VentaWeb_IT/</module> 
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
